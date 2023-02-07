@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.contenedorNav {
+  height: 100px;
+}
+
+.Nav {
+  background-color: #315098;
+  border-radius: 0 0 20px 20px;
+}
+
+body {
+  background-color: black;
+  width: 100vw;
+  height: 700px
+}
